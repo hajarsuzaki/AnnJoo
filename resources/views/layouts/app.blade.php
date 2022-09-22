@@ -25,6 +25,7 @@
   <link href="{{ asset('assets/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
   <link href="{{ asset('assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
   <!-- <link href="{{ asset('assets/vendor/aos/aos.css') }}" rel="stylesheet"> -->
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
   <!-- Template Main CSS File -->
   <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
@@ -51,9 +52,10 @@
             <div class="footer-info">
               <h3>AJE Best-On Sdn Bhd<span style="font-size: 19px">&nbsp;(15952-A)</span></h3>
               <p style="font-size: 16px">
-              15, Jalan Utas 15/7, Seksyen 15, <br>40200 Shah Alam, Selangor.<br>
-              <p style="font-size: 16px">Phone: +603-7874 2233</p>
-              <p style="font-size: 16px">Fax: +603-7873 5763</p><br>
+                Jalan Gergaji 15/14, <br>40200 Shah Alam, Selangor Darul Ehsan,<br>Malaysia.<br>
+              <p style="font-size: 16px">Phone: +603-5524 5883</p>
+              <p style="font-size: 16px">Fax: +603-5524 4883</p>
+              <p style="font-size: 16px">Email: <u>enquiry@ajebest-on.com.my</u></p><br>
               </p>
             </div>
           </div>
@@ -61,11 +63,12 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li> -->
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ route('welcome') }}">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Portfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
+              <li><i class="bx bx-chevron-right"></i><a href="{{ asset('assets/doc/annjoo_privacy_policy.pdf') }}" target="_blank">Privacy policy</a></li>
             </ul>
           </div>
         </div>

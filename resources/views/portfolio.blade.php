@@ -37,60 +37,6 @@
                             <div class="row portfolio-container">
                                 <div class="col-lg-3 col-md-6 portfolio-item filter-card">
                                     <div class="portfolio-wrap">
-                                        <img src="assets/img/telco-1.jpg" class="img-fluid" alt=""
-                                            style="width: 307px; height: auto">
-                                        <div class="portfolio-info">
-                                            <div class="portfolio-links">
-                                                <a href="assets/img/telco-1.jpg" data-gallery="portfolioGallery"
-                                                    class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
-                                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
-                                    <div class="portfolio-wrap">
-                                        <img src="assets/img/telco-2.jpg" class="img-fluid" alt=""
-                                            style="width: 307px; height: 307px">
-                                        <div class="portfolio-info">
-                                            <div class="portfolio-links">
-                                                <a href="assets/img/telco-2.jpg" data-gallery="portfolioGallery"
-                                                    class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
-                                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
-                                    <div class="portfolio-wrap">
-                                        <img src="assets/img/telco-3.png" class="img-fluid" alt=""
-                                            style="width: 307px; height: 307px">
-                                        <div class="portfolio-info">
-                                            <div class="portfolio-links">
-                                                <a href="assets/img/telco-3.png" data-gallery="portfolioGallery"
-                                                    class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
-                                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
-                                    <div class="portfolio-wrap">
-                                        <img src="assets/img/telco-4.png" class="img-fluid" alt=""
-                                            style="width: 307px; height: 307px">
-                                        <div class="portfolio-info">
-                                            <div class="portfolio-links">
-                                                <a href="assets/img/telco-4.png" data-gallery="portfolioGallery"
-                                                    class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
-                                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row portfolio-container">
-                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
-                                    <div class="portfolio-wrap">
                                         <img src="assets/img/aj_solar/aj_solar11.jpeg" class="img-fluid" alt=""
                                             style="width: 307px; height: 307px">
                                         <div class="portfolio-info">
@@ -141,8 +87,58 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row portfolio-container">
+                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                                    <div class="portfolio-wrap">
+                                        <img src="assets/img/telco-1.jpg" class="img-fluid" alt=""
+                                            style="width: 307px; height: auto">
+                                        <div class="portfolio-info">
+                                            <div class="portfolio-links">
+                                                <a href="assets/img/telco-1.jpg" data-gallery="portfolioGallery"
+                                                    class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                                    <div class="portfolio-wrap">
+                                        <img src="assets/img/telco-2.jpg" class="img-fluid" alt=""
+                                            style="width: 307px; height: 307px">
+                                        <div class="portfolio-info">
+                                            <div class="portfolio-links">
+                                                <a href="assets/img/telco-2.jpg" data-gallery="portfolioGallery"
+                                                    class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                                    <div class="portfolio-wrap">
+                                        <img src="assets/img/telco-3.png" class="img-fluid" alt=""
+                                            style="width: 307px; height: 307px">
+                                        <div class="portfolio-info">
+                                            <div class="portfolio-links">
+                                                <a href="assets/img/telco-3.png" data-gallery="portfolioGallery"
+                                                    class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                                    <div class="portfolio-wrap">
+                                        <img src="assets/img/telco-4.png" class="img-fluid" alt=""
+                                            style="width: 307px; height: 307px">
+                                        <div class="portfolio-info">
+                                            <div class="portfolio-links">
+                                                <a href="assets/img/telco-4.png" data-gallery="portfolioGallery"
+                                                    class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="col-lg-3 col-md-6 portfolio-item filter-card">
                                     <div class="portfolio-wrap">
                                         <img src="assets/img/aj_solar/aj_solar6.jpeg" class="img-fluid" alt=""
@@ -169,7 +165,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                                <div class="col-lg-3 col-md-6 portfolio-item filter-app">
                                     <div class="portfolio-wrap">
                                         <img src="assets/img/aj_solar/aj_solar8.jpeg" class="img-fluid" alt=""
                                             style="width: 307px; height: 307px">
@@ -194,8 +190,6 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row portfolio-container">
                                 <div class="col-lg-3 col-md-6 portfolio-item filter-card">
                                     <div class="portfolio-wrap">
                                         <img src="assets/img/aj_solar/aj_solar9.jpeg" class="img-fluid" alt=""
@@ -209,26 +203,13 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                                <div class="col-lg-3 col-md-6 portfolio-item filter-app">
                                     <div class="portfolio-wrap">
                                         <img src="assets/img/aj_solar/aj_solar10.jpeg" class="img-fluid" alt=""
                                             style="width: 307px; height: auto">
                                         <div class="portfolio-info">
                                             <div class="portfolio-links">
                                                 <a href="assets/img/aj_solar/aj_solar10.jpeg"
-                                                    data-gallery="portfolioGallery" class="portfolio-lightbox"
-                                                    title=""><i class="bx bx-plus"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
-                                    <div class="portfolio-wrap">
-                                        <img src="assets/img/aj_solar/aj_solar5.jpeg" class="img-fluid" alt=""
-                                            style="width: 307px; height: auto">
-                                        <div class="portfolio-info">
-                                            <div class="portfolio-links">
-                                                <a href="assets/img/aj_solar/aj_solar5.jpeg"
                                                     data-gallery="portfolioGallery" class="portfolio-lightbox"
                                                     title=""><i class="bx bx-plus"></i></a>
                                             </div>

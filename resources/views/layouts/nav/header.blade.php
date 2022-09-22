@@ -20,7 +20,8 @@
           <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
           <li><a class="nav-link scrollto" href="{{ route('why_us') }}">Why Choose Us?</a></li>
           <li><a class="nav-link scrollto " href="{{ route('portfolio') }}">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="{{ route('welcome') }}">Contact</a></li>
+          <li><a class="nav-link scrollto" href="{{ route('welcome') }}#contact">Contact</a></li>
+          <li><a class="getstarted scrollto" href="{{ asset('assets/doc/company_profile.pdf') }}" target="_blank"><i class="bi bi-download"></i>&nbsp;&nbsp;Company Profile</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

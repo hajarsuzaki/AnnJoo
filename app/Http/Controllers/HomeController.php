@@ -46,7 +46,7 @@ class HomeController extends Controller
     {
         $data= $request->all();
         //ann joo email
-        Mail::to('wegohoc626@ukgent.com')->send(new \App\Mail\ContactUs($data));
+        Mail::to('enquiry@ajebest-on.com.my')->send(new \App\Mail\ContactUs($data));
 
      //   dd("Email is Sent.");
 

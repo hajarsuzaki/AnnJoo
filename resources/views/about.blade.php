@@ -26,6 +26,14 @@ About Us
             <div class="row gy-12">
                 <div class="col-lg-12">
                     <div class="portfolio-info">
+                        <div class="row gy-12">
+                            <div class="col-lg-12">
+                                <div class="alert alert-primary" role="alert">
+                                    <b>AJE Best On</b> Provision of architecture design, engineering, procurement, construction and commissioning for solar and other 
+                                    renewable energy business, general project management and contract services.
+                                  </div>
+                            </div>
+                        </div>
                         <p style="font-size: 16px; color: black; text-align: justify;">
                             <b>AJE Best-On Sdn. Bhd.</b> known as “Ann Joo Energy” is the best technology in the domain by maximizing efficiency Green. Ann Joo Energy eNERGY ecosystems resilient 
                             is with eNERGY Storage System (ESS). Our key strength is to regenerate the energy from Green Technology such as solar, grid and the advantage of the 

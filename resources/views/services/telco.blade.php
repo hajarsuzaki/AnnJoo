@@ -35,9 +35,9 @@ Telecommunication
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Telecom Fibre Deployment</h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            <i>We provide complete OSP services include installing aerial cable, direct-buried cable, underground cable in conduit, installing 
+                                            We provide complete OSP services include installing aerial cable, direct-buried cable, underground cable in conduit, installing 
                                             conduit and pulling cable, micro trenching, HDD, cables through sewer, splicing cables, fibre termination, utility
-                                            pole replacement and OTDR testing.</i>
+                                            pole replacement and OTDR testing.
                                         </p>    
                                     </div>
                                 </div>
@@ -48,10 +48,10 @@ Telecommunication
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Microwave Installation & Commissioning</h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            <i>As technology shifts and improves, carriers need to upgrade their equipment. Our team is not only familiar with 
+                                            As technology shifts and improves, carriers need to upgrade their equipment. Our team is not only familiar with 
                                             all major carrier technologies, but also experienced in microwave alignment and monitoring. We strive to make any equipment upgrade as 
                                             streamlined as possible with little to no carrier down time. We provide installation, testing & commissioning services for PDH & SDH 
-                                            equipment along with various sizes of antennas.</i>
+                                            equipment along with various sizes of antennas.
                                         </p>
                                     </div>
                                 </div>
@@ -62,7 +62,7 @@ Telecommunication
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Telecom Equipment Installation </h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            <i>We provide services to install, test & commissioning of rectifier, inverter, backup battery and base transceiver station (BTS).</i>
+                                            We provide services to install, test & commissioning of rectifier, inverter, backup battery and base transceiver station (BTS).
                                         </p>
                                     </div>
                                 </div>
@@ -80,10 +80,10 @@ Telecommunication
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Tower Infrastructure & CME (Full Turn Key)</h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            <i>AJE Best-On offer professional tower infra services to our clients to streamline their communication and data transmission process.
+                                            AJE Best-On offer professional tower infra services to our clients to streamline their communication and data transmission process.
                                                 In addition, personal tower solutions have several benefits that companies aiming to expand must avail in today’s day and age. We also handle
                                                 project scopes for all sizes, whether it is constructing new telecommunications towers, reinforcing, or modifying existing towers, installing
-                                                lines and antennas, or performing maintenance on existing structures.</i>
+                                                lines and antennas, or performing maintenance on existing structures.
                                         </p>
                                     </div>
                                 </div>
@@ -94,8 +94,8 @@ Telecommunication
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Backhaul & Inbuilding (IBS) Installation</h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            <i>We provide Inbuilding design, installation of distributed antenna system, fiber optic splicing and testing, 
-                                            Civil, Electrical and Mechanical works.</i>
+                                            We provide Inbuilding design, installation of distributed antenna system, fiber optic splicing and testing, 
+                                            Civil, Electrical and Mechanical works.
                                         </p>    
                                     </div>
                                 </div>
@@ -106,7 +106,13 @@ Telecommunication
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Network Optimization & Monitoring System (RMS)</h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            <i>We provide installation of distributed antenna system, fibre optic splicing and testing, Civil, Electrical and Mechanical works</i>
+                                            More and more business sectors are turning to Network Optimization & Remote Monitoring Systems (RMS) as solutions for automating 
+                                            many different business operations. RMS are usually comprised of a combination of :<br>
+                                            - Sensors<br>
+                                            - Network connections<br>
+                                            - Central computer system<br>
+                                            - Interfaces for human input<br>
+                                            - Actuators, which are mechanical or electronic devices that take an action based on user or system feedback
                                         </p>
                                     </div>
                                 </div>
