@@ -64,10 +64,10 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="{{ route('welcome') }}">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Portfolio</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ route('welcome') }}#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ route('welcome') }}#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ route('welcome') }}#portfolio">Portfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ route('welcome') }}#contact">Contact</a></li>
               <li><i class="bx bx-chevron-right"></i><a href="{{ asset('assets/doc/annjoo_privacy_policy.pdf') }}" target="_blank">Privacy policy</a></li>
             </ul>
           </div>
