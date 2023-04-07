@@ -12,7 +12,7 @@ Message: {{ $data['message'] }}
 <!DOCTYPE html>
 <html>
 <body>
-    <h4>Here the details:</h4>
+    <h4>Inquiry details:</h4>
     <p>Name: {{ $data['name'] }}</p>  
     <p>Email: {{ $data['email'] }}</p>  
     <p>Subject: {{ $data['subject'] }}</p>  

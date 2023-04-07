@@ -13,15 +13,15 @@
                 <div class="carousel-inner" role="listbox">
 
                     <!-- Slide 1 -->
-                    <div class="carousel-item active" style="background-image: url(assets/img/telecom/microwave_install.jpg);">
+                    <div class="carousel-item active" style="background-image: url({{asset('assets/img/telecom/microwave_install.jpg')}});">
                         <div class="carousel-container">
                             <div class="carousel-content">
-                                <h2 class="animate__animated animate__fadeInDown">AJE Best-On</h2>
-                                <h3 class="animate__animated animate__fadeInUp" style="color: white;">The best technology in
-                                    the domain by maximizing efficiency eNERGY and Telecommunication</h3>
-                                <div>
-                                    <a href="{{ route('about') }}"
-                                        class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                                <div class="transbox">
+                                    <h2 class="animate__animated animate__fadeInDown">AJE Best-On</h2>
+                                    <h3 class="animate__animated animate__fadeInUp" style="color: white;">A Leading Provider of Green Renewable Energy and Telecommunications Infrastructure</h3>
+                                    <div>
+                                        <a href="{{ route('about') }}" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -43,8 +43,8 @@
                         </div>
                     </div>
 
-                    <!-- Slide 3 -->
-                    <div class="carousel-item" style="background-image: url(assets/img/slide/solartower.png);">
+                    <!-- Slide 4 -->
+                    <div class="carousel-item" style="background-image: url(assets/img/slide/slide-4.jpg);">
                         <div class="carousel-container">
                             <div class="carousel-content">
                             </div>
@@ -75,8 +75,8 @@
                         <div class="content d-flex flex-column justify-content-center">
                             <h3>AJE Best-On Sdn. Bhd.</h3>
                             <p>
-                                AJE Best-On Sdn Bhd known as “Ann Joo Energy” is the best technology in the domain by
-                                maximizing efficiency Green Renewable Energy and Telecommunication Infrastructure.
+                                AJE Best-On Sdn Bhd known as “AnnJoo Energy (AJE)” offers cutting-edge Solar Hybrid and Renewable Energy Solutions with technology that optimizes green energy 
+                                efficiency.
                             </p>
                             <a href="{{ route('about') }}"
                                 class="btn-get-started animate__animated animate__fadeInUp scrollto"><u>Read More<i
@@ -85,30 +85,22 @@
                     </div>
                     <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
                         <div class="content d-flex flex-column justify-content-center">
-                            <!-- <h3>Voluptatem dignissimos provident quasi</h3>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                  </p> -->
                             <div class="row">
                                 <div class="col-md-6 icon-box">
                                     <i class="bx bx-sun"></i>
                                     <h4>Our key strength is to regenerate the energy from Green Technology</h4>
-                                    <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
                                 </div>
                                 <div class="col-md-6 icon-box">
                                     <i class="bx bx-shield"></i>
                                     <h4>Ensures continuous and reliable power production</h4>
-                                    <!-- <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p> -->
                                 </div>
                                 <div class="col-md-6 icon-box">
                                     <i class="bx bx-bullseye"></i>
                                     <h4>Experienced in microwave alignment and monitoring</h4>
-                                    <!-- <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p> -->
                                 </div>
                                 <div class="col-md-6 icon-box">
                                     <i class="bx bx-broadcast"></i>
                                     <h4>Telecom solutions provider expertise</h4>
-                                    <!-- <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p> -->
                                 </div>
                             </div>
                         </div><!-- End .content-->
@@ -122,22 +114,30 @@
             <div class="container">
                 <div class="section-title" data-aos="fade-in" data-aos-delay="100">
                     <h2>Services</h2>
+                    <div class="row">
+                        <div class="col-lg-2"></div>
+                        <div class="col-lg-8">
+                        <h5>
+                            <i>We aim to generate significant cost reduction to both consumers and producers by creating a more competitive and efficient solar marketplace, 
+                            hence, resulting in greater adoption of solar energy.</i> 
+                        </h5>
+                        </div>
+                        <div class="col-lg-2"></div>
+                    </div>
                     <h4 style="color: #5c9f24;"><b>GREEN RENEWABLE ENERGY</b></h4>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="card mb-3" style="background-color: #5c9f24;">
                             <div class="row no-gutters">
                                 <div class="col-md-12"> 
                                     <table>
                                         <tr>
                                             <td><img src="assets/img/energy/microgrid.png" class="card-img" alt="..."
-                                                style="width: 175px; height: 160px"></td>
+                                                style="width: 155px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
-                                                <h5 class="card-title" style="color: white">Telco Hybrid Solar Solutions</h5>
-                                                <h5 class="card-title" style="color: white; text-align:center">&</h5>
-                                                <h5 class="card-title" style="color: white">eNERGY Storage System</h5>
+                                                <h5 class="card-title" style="color: white">Solar Hybrid Solutions</h5>
                                             </td>
                                         </tr>
                                     </table>
@@ -145,19 +145,17 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="card mb-3" style="background-color: #5c9f24;">
                             <div class="row no-gutters">
                                 <div class="col-md-12"> 
                                     <table>
                                         <tr>
                                             <td><img src="assets/img/energy/industrial.png" class="card-img" alt="..."
-                                                style="width: 175px; height: 160px"></td>
+                                                style="width: 155px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
-                                                <h5 class="card-title" style="color: white">Enterprise</h5>
-                                                <h5 class="card-title" style="color: white; text-align:center">&</h5>
-                                                <h5 class="card-title" style="color: white">Industrial</h5>
+                                                <h5 class="card-title" style="color: white">Enterprise & Industrial<br>Solar Hybrid System</h5>
                                             </td>
                                         </tr>
                                     </table>
@@ -165,36 +163,14 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="card mb-3" style="background-color: #5c9f24;">
-                            <div class="row no-gutters">
-                                <div class="col-md-12"> 
-                                    <table>
-                                        <tr>
-                                            <td><img src="assets/img/energy/residential.jpg" class="card-img" alt="..."
-                                                style="width: 175px; height: 160px"></td>
-                                            <td>&nbsp;&nbsp;</td>
-                                            <td>
-                                                <h5 class="card-title" style="color: white; text-align: center;">Residential</h5>
-                                                <h5 class="card-title" style="color: white; text-align:center">&</h5>
-                                                <h5 class="card-title" style="color: white">New Property Development</h5>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="card mb-3" style="background-color: #5c9f24;">
                             <div class="row no-gutters">
                                 <div class="col-md-12"> 
                                     <table>
                                         <tr>
                                             <td><img src="assets/img/energy/server_room.jpg" class="card-img" alt="..."
-                                                style="width: 175px; height: 160px"></td>
+                                                style="width: 155px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
                                                 <h5 class="card-title" style="color: white; text-align: center;">Microgrid</h5>
@@ -205,25 +181,81 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="card mb-3" style="background-color: #5c9f24;">
                             <div class="row no-gutters">
                                 <div class="col-md-12"> 
                                     <table>
                                         <tr>
                                             <td><img src="assets/img/energy/ipv.png" class="card-img" alt="..."
-                                                style="width: 175px; height: 160px"></td>
+                                                style="width: 155px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
-                                                <h5 class="card-title" style="color: white; text-align: center;">IPV LED</h5>
+                                                <h5 class="card-title" style="color: white;">Renewable Energy Solutions</h5>
                                             </td>
                                         </tr>
                                     </table>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4">
+                    {{-- <div class="col-lg-4">
+                        <div class="card mb-3" style="background-color: #5c9f24;">
+                            <div class="row no-gutters">
+                                <div class="col-md-12"> 
+                                    <table>
+                                        <tr>
+                                            <td><img src="assets/img/energy/residential.jpg" class="card-img" alt="..."
+                                                style="width: 175px; height: 160px"></td>
+                                            <td>&nbsp;&nbsp;</td>
+                                            <td>
+                                                <h5 class="card-title" style="color: white;">Residential &</h5>
+                                                <h5 class="card-title" style="color: white">New Property Development</h5>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div> --}}
+                </div>
+                <div class="row">
+                    {{-- <div class="col-lg-4">
+                        <div class="card mb-3" style="background-color: #5c9f24;">
+                            <div class="row no-gutters">
+                                <div class="col-md-12"> 
+                                    <table>
+                                        <tr>
+                                            <td><img src="assets/img/energy/server_room.jpg" class="card-img" alt="..."
+                                                style="width: 155px; height: 160px"></td>
+                                            <td>&nbsp;&nbsp;</td>
+                                            <td>
+                                                <h5 class="card-title" style="color: white; text-align: center;">Microgrid</h5>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div> --}}
+                    {{-- <div class="col-lg-4">
+                        <div class="card mb-3" style="background-color: #5c9f24;">
+                            <div class="row no-gutters">
+                                <div class="col-md-12"> 
+                                    <table>
+                                        <tr>
+                                            <td><img src="assets/img/energy/ipv.png" class="card-img" alt="..."
+                                                style="width: 155px; height: 160px"></td>
+                                            <td>&nbsp;&nbsp;</td>
+                                            <td>
+                                                <h5 class="card-title" style="color: white; text-align: center;">Renewable Energy Solutions</h5>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div> --}}
+                    {{-- <div class="col-lg-4">
                         <div class="card mb-3" style="background-color: #5c9f24;">
                             <div class="row no-gutters">
                                 <div class="col-md-12"> 
@@ -240,9 +272,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div><br>
-                <h4 style="color: #5391e1; text-align: center"><b>TELECOM SOLUTIONS</b></h4><br />
+                <h4 style="color: #5391e1; text-align: center"><b>TELECOM ENGINEERING SERVICES</b></h4><br />
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="card mb-3" style="background-color: #5391e1;">
@@ -250,12 +282,11 @@
                                 <div class="col-md-12"> 
                                     <table>
                                         <tr>
-                                            <td><img src="assets/img/telecom/fibre_deployment.jpg" class="card-img" alt="..."
+                                            <td><img src="assets/img/slide/aj-1.jpg" class="card-img" alt="..."
                                                 style="width: 175px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
-                                                <h5 class="card-title" style="color: white">Telecom Fibre</h5>
-                                                <h5 class="card-title" style="color: white;">Deployment</h5>
+                                                <h5 class="card-title" style="color: white">Telecom Fibre & 5G Integrator</h5>
                                             </td>
                                         </tr>
                                     </table>
@@ -273,8 +304,7 @@
                                                 style="width: 175px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
-                                                <h5 class="card-title" style="color: white">Microwave Installation</h5>
-                                                <h5 class="card-title" style="color: white;">& Commissioning</h5>
+                                                <h5 class="card-title" style="color: white">Microwave Installation & Commissioning</h5>
                                             </td>
                                         </tr>
                                     </table>
@@ -288,12 +318,11 @@
                                 <div class="col-md-12"> 
                                     <table>
                                         <tr>
-                                            <td><img src="assets/img/telecom/telecom_install.png" class="card-img" alt="..."
+                                            <td><img src="assets/img/telecom/telecom_install.jpeg" class="card-img" alt="..."
                                                 style="width: 175px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
-                                                <h5 class="card-title" style="color: white">Telecom Equipment</h5>
-                                                <h5 class="card-title" style="color: white;">Installation</h5>
+                                                <h5 class="card-title" style="color: white">Telecommunication Turnkey Contractor</h5>
                                             </td>
                                         </tr>
                                     </table>
@@ -313,9 +342,9 @@
                                                 style="width: 175px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
-                                                <h5 class="card-title" style="color: white">Tower Infrastructure</h5>
-                                                <h5 class="card-title" style="color: white; text-align: center">&</h5>
-                                                <h5 class="card-title" style="color: white;">CME (Full Turn Key)</h5>
+                                                <h5 class="card-title" style="color: white">Tower Infrastructure & CME(Full Turn Key)</h5>
+                                                <h5 class="card-title" style="color: white;"></h5>
+                                                <h5 class="card-title" style="color: white;"></h5>
                                             </td>
                                         </tr>
                                     </table>
@@ -329,12 +358,11 @@
                                 <div class="col-md-12"> 
                                     <table>
                                         <tr>
-                                            <td><img src="assets/img/telecom/backhaul_1.jpg" class="card-img" alt="..."
+                                            <td><img src="assets/img/telecom/backhaul_1.jpeg" class="card-img" alt="..."
                                                 style="width: 175px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
-                                                <h5 class="card-title" style="color: white">Backhaul & Inbuilding (IBS)</h5>
-                                                <h5 class="card-title" style="color: white;">Installation</h5>
+                                                <h5 class="card-title" style="color: white">Backhaul & Inbuilding (IBS) Installation</h5>
                                             </td>
                                         </tr>
                                     </table>
@@ -348,13 +376,11 @@
                                 <div class="col-md-12"> 
                                     <table>
                                         <tr>
-                                            <td><img src="assets/img/telecom/network_monitor.jpg" class="card-img" alt="..."
+                                            <td><img src="assets/img/telecom/network_monitor.jpeg" class="card-img" alt="..."
                                                 style="width: 175px; height: 160px"></td>
                                             <td>&nbsp;&nbsp;</td>
                                             <td>
-                                                <h5 class="card-title" style="color: white">Network Optimization &</h5>
-                                                {{-- <h5 class="card-title" style="color: white; text-align: center">&</h5> --}}
-                                                <h5 class="card-title" style="color: white;">Remote Monitoring System (RMS)</h5>
+                                                <h5 class="card-title" style="color: white">Network Optimization & Remote Monitoring System (RMS)</h5>
                                             </td>
                                         </tr>
                                     </table>
@@ -406,7 +432,7 @@
 
                     <div class="col-lg-3 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
-                            <img src="assets/img/aj_solar/aj_solar10.jpeg" class="img-fluid" alt=""
+                            <img src="{{ asset('assets/img/aj_solar/aj_solar10.jpeg') }}" class="img-fluid" alt=""
                                 style="width: 307px; height: 307px">
                             <div class="portfolio-info">
                                 <div class="portfolio-links">
@@ -456,25 +482,61 @@
             </div>
             </div>
         </section><!-- End Portfolio Section -->
-        <section id="clients" class="clients section-bg">
+        <section id="clients" class="clients">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-4"></div>
-                    <div class="col-lg-4">
-                        <h3>Licenses & Partners</h3>
-                    </div>
-                    <div class="col-lg-4"></div>
+                <div class="section-title">
+                    <h2>Licenses & Partners</h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-1"></div>
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="assets/img/partners/cidb.png" class="img-fluid" alt="">
+                    <div class="col-lg-5">
+                        <div id="example2">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <img src="{{ asset('assets/img/partners/cidb.png') }}" class="img-fluid" alt="" style="width: 100px; height: auto">
+                                </div>
+                                <div class="col-lg-4">
+                                    {{-- <img src="{{ asset('assets/img/partners/jurutera.png') }}" class="img-fluid" alt="" style="width: 95px; height: auto"> --}}
+                                    <img src="{{ asset('assets/img/partners/niosh.jpg') }}" class="img-fluid" alt="" style="width: 100px; height: auto">
+                                </div>
+                                <div class="col-lg-4">
+                                    <img src="{{ asset('assets/img/partners/wah.png') }}" class="img-fluid" alt="" style="width: 100px; height: auto">
+                                </div>
+                            </div>
+                            {{-- <div class="row">
+                                <div class="col-lg-6">
+                                    <img src="{{ asset('assets/img/partners/niosh.jpg') }}" class="img-fluid" alt="" style="width: 100px; height: auto">
+                                </div>
+                                <div class="col-lg-6">
+                                    <img src="{{ asset('assets/img/partners/wah.png') }}" class="img-fluid" alt="" style="width: 100px; height: auto">
+                                </div>
+                            </div> --}}
+                        </div>
+                    </div>&nbsp;
+                    <div class="col-lg-5">
+                        <div id="example3">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <img src="{{ asset('assets/img/partners/download.jpg') }}" class="img-fluid" alt="" style="width: 95px; height: auto">
+                                    {{-- <img src="{{ asset('assets/img/partners/myhijau.png') }}" class="img-fluid" alt="" style="width: 95px; height: auto"> --}}
+                                </div>
+                                <div class="col-lg-6">
+                                    <img src="{{ asset('assets/img/partners/seda.jpg') }}" class="img-fluid" alt="" style="width: 95px; height: auto">
+                                </div>
+                            </div>
+                            {{-- <div class="row">
+                                <div class="col-lg-3"></div>
+                                <div class="col-lg-6">
+                                    <img src="{{ asset('assets/img/partners/download.jpg') }}" class="img-fluid" alt="" style="width: 95px; height: auto">
+                                </div>
+                                <div class="col-lg-3"></div>
+                            </div> --}}
+                        </div>
                     </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="assets/img/partners/jurutera.png" class="img-fluid" alt="">
-                    </div>
-
+                    <div class="col-lg-1"></div>
+                </div>
+                {{-- <div class="row">
+                    <div class="col-lg-3"></div>
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                         <img src="assets/img/partners/myhijau.png" class="img-fluid" alt="">
                     </div>
@@ -482,12 +544,11 @@
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                         <img src="assets/img/partners/seda.jpg" class="img-fluid" alt="">
                     </div>
-
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                         <img src="assets/img/partners/tenaga.jpg" class="img-fluid" alt="">
                     </div>
-                    <div class="col-lg-1"></div>
-                </div>
+                    <div class="col-lg-3"></div>
+                </div> --}}
             </div>
         </section><!-- End Clients Section -->
 
@@ -531,16 +592,16 @@
 
                 </div>
                 <div class="row">
-                    <div class="col-md-6 ">
-                        <iframe class="mb-4 mb-lg-0"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.11216837101!2d101.5332533!3d3.0646755999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4d652d2ae1a7%3A0x454482d3d80f5de7!2sJalan%20Gergaji%2015%2F14%2C%20Seksyen%2015%2C%2040200%20Shah%20Alam%2C%20Selangor!5e0!3m2!1sen!2smy!4v1662947212532!5m2!1sen!2smy"
-                            frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen loading="lazy"
-                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <div class="col-md-4 ">
+                        <img src="assets/img/map.jpeg" class="img-fluid" alt="assets/img/map.jpeg" style="border:0; width: 100%; height: 384px;">&nbsp;
                     </div>
-                    <div class="col-md-6 ">
+                    <div class="col-md-4 ">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.11216837101!2d101.5332533!3d3.0646755999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4d652d2ae1a7%3A0x454482d3d80f5de7!2sJalan%20Gergaji%2015%2F14%2C%20Seksyen%2015%2C%2040200%20Shah%20Alam%2C%20Selangor!5e0!3m2!1sen!2smy!4v1665564161506!5m2!1sen!2smy" 
+                        style="border:0; width: 100%; height: 384px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    <div class="col-md-4">
                         <div class="form">
-                            <form action="{{ route('send_mail') }}" method="post" role="form"
-                                class="php-email-form">
+                            <form action="{{ route('send_mail') }}" method="POST" role="form" class="php-email-form">
                                 @csrf
                                 <div class="row">
                                     <div class="form-group mt-3">
@@ -570,7 +631,42 @@
                         </div>
                     </div>
                 </div>
+                {{-- <div class="row">
+                    <div class="col-md-12">
+                        <div class="form">
+                            <form action="{{ route('send_mail') }}" method="POST" role="form" class="php-email-form">
+                                @csrf
+                                <div class="row">
+                                    <div class="form-group mt-3">
+                                        <input type="text" name="name" class="form-control" id="name"
+                                            placeholder="Your Name" data-rule="minlen:4"
+                                            data-msg="Please enter at least 4 chars">
+                                    </div>
+                                </div>
+                                <div class="form-group mt-3">
+                                    <input type="email" class="form-control" name="email" id="email"
+                                        placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email">
+                                </div>
+                                <div class="form-group mt-3">
+                                    <input type="text" class="form-control" name="subject" id="subject"
+                                        placeholder="Subject" required>
+                                </div>
+                                <div class="form-group mt-3">
+                                    <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                                </div>
+                                <div class="my-3">
+                                    <div class="loading">Loading</div>
+                                    <div class="error-message"></div>
+                                    <div class="sent-message">Your message has been sent. Thank you!</div>
+                                </div>
+                                <div class="text-center"><button type="submit">Send Message</button></div>
+                            </form>
+                        </div>
+                    </div>
+                </div> --}}
+                {{-- <br /> --}}
             </div>
         </section><!-- End Contact Section -->
     </main>
 @endsection
+

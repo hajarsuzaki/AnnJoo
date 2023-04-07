@@ -9,18 +9,18 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="{{ route('welcome') }}">Home</a></li>
-          <li><a class="nav-link scrollto" href="{{ route('about') }}">About</a></li>
-          <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a class="nav-link {{ Request::is('/*') ? 'active' : '' }}" href="{{ route('welcome') }}">Home</a></li>
+          <li><a class="nav-link {{ Request::is('about*') ? 'active' : '' }}" href="{{ route('about') }}">About</a></li>
+          <li class="dropdown {{ Request::is('services/*') ? 'active' : '' }}"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="{{ route('energy') }}">Green Renewable Energy</a></li>
-              <li><a href="{{ route('telecommunication')}}">Telecom Solutions</a></li>
+              <li><a href="{{ route('services.energy') }}">Green Renewable Energy</a></li>
+              <li><a href="{{ route('services.telecommunication')}}">Telecom Engineering Services</a></li>
             </ul>
           </li>
           <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
-          <li><a class="nav-link scrollto" href="{{ route('why_us') }}">Why Choose Us?</a></li>
-          <li><a class="nav-link scrollto " href="{{ route('portfolio') }}">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="{{ route('welcome') }}#contact">Contact</a></li>
+          <li><a class="nav-link {{ Request::is('why-choose-us*') ? 'active' : '' }}" href="{{ route('why_us') }}">Why Choose Us?</a></li>
+          <li><a class="nav-link {{ Request::is('portfolio*') ? 'active' : '' }} " href="{{ route('portfolio') }}">Portfolio</a></li>
+          <li><a class="nav-link" href="{{ route('welcome') }}#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="{{ asset('assets/doc/company_profile.pdf') }}" target="_blank"><i class="bi bi-download"></i>&nbsp;&nbsp;Company Profile</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

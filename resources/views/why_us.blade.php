@@ -29,19 +29,19 @@
                             <div class="card-header" style="text-align: center"><b>Green Renewable Energy</b></div>
                             <div class="card-body">
                                 <table>
-                                    <tr>
+                                    <tr style="vertical-align:top">
                                         <td>
-                                            <p style="font-size: 20px"><i class="bx bx-leaf"></i></p>
+                                            <p style="font-size: 24px;"><i class="bx bx-leaf"></i></p>
                                         </td>
                                         <td>&nbsp;</td>
-                                        <td>
+                                        <td style="">
                                             <h6 style="text-align: justify">We offer a flexible, turnkey solutions and
                                                 services that meet your individual project needs.</h6>
                                         </td>
                                     </tr>
-                                    <tr>
+                                    <tr style="vertical-align:top">
                                         <td>
-                                            <p style="font-size: 20px"><i class="bx bx-leaf"></i></p>
+                                            <p style="font-size: 24px;"><i class="bx bx-leaf"></i></p>
                                         </td>
                                         <td>&nbsp;</td>
                                         <td>
@@ -52,12 +52,27 @@
                                                 superior performance.</h6>
                                         </td>
                                     </tr>
+                                    <tr style="vertical-align:top">
+                                        <td>
+                                            <p style="font-size: 24px;"><i class="bx bx-leaf"></i></p>
+                                        </td>
+                                        <td>&nbsp;</td>
+                                        <td>
+                                            <h6 style="text-align: justify">The solutions we offered are :</h6>
+                                            <ul>
+                                                <li>Solar Hybrid Solutions</li> 
+                                                <li>Renewable Energy Solutions</li>
+                                                <li>Enterprise & Industrial Solar Hybrid System</li>
+                                                <li>Microgrid</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
                                     <tr>
                                         <td>&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>&nbsp;&nbsp;&nbsp;<br><br>
+                                        <td>&nbsp;&nbsp;<br><br><br><br><br>
                                         </td>
                                     </tr>
                                 </table>
@@ -65,13 +80,13 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="card text-white bg-primary mb-3">
+                        <div class="card text-white mb-3" style="background-color: rgb(87, 69, 250)">
                             <div class="card-header" style="text-align: center"><b>Telecom Solutions</b></div>
                             <div class="card-body">
                                 <table>
-                                    <tr>
+                                    <tr style="vertical-align:top">
                                         <td>
-                                            <p style="font-size: 20px"><i class="bx bx-broadcast"></i></p>
+                                            <p style="font-size: 24px"><i class="bx bx-broadcast"></i></p>
                                         </td>
                                         <td>&nbsp;</td>
                                         <td>
@@ -79,9 +94,9 @@
                                                 backed by strong management team with excellent experiences.</h6>
                                         </td>
                                     </tr>
-                                    <tr>
+                                    <tr style="vertical-align:top">
                                         <td>
-                                            <p style="font-size: 20px"><i class="bx bx-broadcast"></i></p>
+                                            <p style="font-size: 24px"><i class="bx bx-broadcast"></i></p>
                                         </td>
                                         <td>&nbsp;</td>
                                         <td>
@@ -92,9 +107,9 @@
                                                 turnkey system.</h6>
                                         </td>
                                     </tr>
-                                    <tr>
+                                    <tr style="vertical-align:top">
                                         <td>
-                                            <p style="font-size: 20px"><i class="bx bx-broadcast"></i></p>
+                                            <p style="font-size: 24px"><i class="bx bx-broadcast"></i></p>
                                         </td>
                                         <td>&nbsp;</td>
                                         <td>
@@ -104,14 +119,31 @@
                                                 maintenance.</h6>
                                         </td>
                                     </tr>
-                                    <tr>
+                                    <tr style="vertical-align:top">
                                         <td>
-                                            <p style="font-size: 20px"><i class="bx bx-broadcast"></i></p>
+                                            <p style="font-size: 24px"><i class="bx bx-broadcast"></i></p>
                                         </td>
                                         <td>&nbsp;</td>
                                         <td>
                                             <h6 style="text-align: justify">Our company is presently dealing in tower
                                                 upgrading, repairing and maintenance.</h6>
+                                        </td>
+                                    </tr>
+                                    <tr style="vertical-align:top">
+                                        <td>
+                                            <p style="font-size: 24px"><i class="bx bx-broadcast"></i></p>
+                                        </td>
+                                        <td>&nbsp;</td>
+                                        <td>
+                                            <h6 style="text-align: justify">Services :</h6>
+                                            <ul>
+                                                <li>Telecom Fibre & 5G Integrator</li> 
+                                                <li>Microwave Installation & Commissioning </li>
+                                                <li>Telecommunication Turnkey Contractor</li>
+                                                <li>Tower Infrastructure & CME (Full Turnkey)</li>
+                                                <li>Backhaul & Inbuilding (IBS) Installation</li>
+                                                <li>Network Optimization & Remote Monitoring System (RMS)</li>
+                                            </ul>
                                         </td>
                                     </tr>
                                 </table>

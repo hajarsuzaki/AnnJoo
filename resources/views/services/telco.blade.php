@@ -10,10 +10,10 @@ Telecommunication
         <div class="container">
 
             <div class="d-flex justify-content-between align-items-center">
-                <h2>Telecommunication</h2>
+                <h2>Telecom Engineering Services</h2>
                 <ol>
                     <li><a href="{{ route('welcome')}}">Home</a></li>
-                    <li>Telecom Solutions</li>
+                    <li>Telecom Engineering Services</li>
                 </ol>
             </div>
 
@@ -30,26 +30,28 @@ Telecommunication
                             <div class="card-group">
                                 <div class="card" style="background: linear-gradient(180deg, #137FC1 -7.18%, #0A71B1 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
-                                        <img src="{{ asset('assets/img/telecom/fibre_deployment.jpg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/fibre_deployment.jpg') }}" style="width:fit-content; height: auto; ">
+                                        <img src="{{ asset('assets/img/slide/aj-1.jpg') }}" class="card-img-top" alt="{{ asset('assets/img/slide/aj-1.jpg') }}" style="width:fit-content; height: 290px; ">
                                     </div>
                                     <div class="card-body">
-                                        <h5 class="card-title" style="color: #DCEEFA">Telecom Fibre Deployment</h5>
+                                        <h5 class="card-title" style="color: #DCEEFA">Telecom Fibre & 5G Integrator</h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            We provide complete OSP services include installing aerial cable, direct-buried cable, underground cable in conduit, installing 
-                                            conduit and pulling cable, micro trenching, HDD, cables through sewer, splicing cables, fibre termination, utility
-                                            pole replacement and OTDR testing.
+                                            We provide complete On-Site Plant (“OSP”) services include installing aerial cable, direct-buried cable, underground cable in 
+                                            conduit, installing conduit and pulling cable, micro trenching, Horizontal Directional Drilling (“HDD”), cables through sewer, 
+                                            splicing cables, fibre termination, utility pole replacement and Optical time-domain reflectometer (“OTDR”) testing.
                                         </p>    
                                     </div>
                                 </div>
                                 <div class="card" style="background: linear-gradient(180deg, #137FC1 -7.18%, #0A71B1 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
-                                        <img src="{{ asset('assets/img/telecom/microwave_install.jpg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/microwave_install.jpg') }}" style="width:fit-content; height: auto; ">
+                                        <img src="{{ asset('assets/img/telecom/microwave_install.jpg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/microwave_install.jpg') }}" style="width:fit-content; height: 290px; ">
                                     </div>
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Microwave Installation & Commissioning</h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            As technology shifts and improves, carriers need to upgrade their equipment. Our team is not only familiar with 
-                                            all major carrier technologies, but also experienced in microwave alignment and monitoring. We strive to make any equipment upgrade as 
+                                            As technology shifts and improves, carriers need to upgrade their equipment.
+                                        </p>
+                                        <p class="card-text" style="color: white; text-align: justify">
+                                            Our team is not only familiar with all major carrier technologies, but also experienced in microwave alignment and monitoring. We strive to make any equipment upgrade as 
                                             streamlined as possible with little to no carrier down time. We provide installation, testing & commissioning services for PDH & SDH 
                                             equipment along with various sizes of antennas.
                                         </p>
@@ -57,7 +59,7 @@ Telecommunication
                                 </div>
                                 <div class="card" style="background: linear-gradient(180deg, #137FC1 -7.18%, #0A71B1 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
-                                        <img src="{{ asset('assets/img/telecom/telecom_install.png') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/telecom_install.png') }}" style="width:fit-content; height: 290px">
+                                        <img src="{{ asset('assets/img/telecom/telecom_install.jpeg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/telecom_install.jpeg') }}" style="width:fit-content; height: 290px">
                                     </div>
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Telecom Equipment Installation </h5>
@@ -75,21 +77,25 @@ Telecommunication
                             <div class="card-group">
                                 <div class="card" style="background: linear-gradient(180deg, #137FC1 -7.18%, #0A71B1 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
-                                        <img src="{{ asset('assets/img/telecom/ti_cme.jpg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/ti_cme.jpg') }}" style="width:fit-content; height: auto; ">
+                                        <img src="{{ asset('assets/img/telecom/ti_cme.jpg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/ti_cme.jpg') }}" style="width:fit-content; height: 290px; ">
                                     </div>
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Tower Infrastructure & CME (Full Turn Key)</h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            AJE Best-On offer professional tower infra services to our clients to streamline their communication and data transmission process.
-                                                In addition, personal tower solutions have several benefits that companies aiming to expand must avail in today’s day and age. We also handle
-                                                project scopes for all sizes, whether it is constructing new telecommunications towers, reinforcing, or modifying existing towers, installing
-                                                lines and antennas, or performing maintenance on existing structures.
+                                        We offer professional tower infra services to our clients to streamline their communication and data transmission process.
+                                        </p>
+                                        <p class="card-text" style="color: white; text-align: justify">
+                                        In addition, personal tower solutions have several benefits that companies aiming to expand must avail in today’s day and age.
+                                        </p>
+                                        <p class="card-text" style="color: white; text-align: justify">
+                                         We also handle project scopes for all sizes, whether it is constructing new telecommunications towers, reinforcing, or modifying existing towers, installing
+                                        lines and antennas, or performing maintenance on existing structures.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="card" style="background: linear-gradient(180deg, #137FC1 -7.18%, #0A71B1 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
-                                        <img src="{{ asset('assets/img/telecom/backhaul_1.jpg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/backhaul_1.jpg') }}" style="width:fit-content; height: auto; ">
+                                        <img src="{{ asset('assets/img/telecom/backhaul_1.jpeg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/backhaul_1.jpeg') }}" style="width:fit-content; height: 290px; ">
                                     </div>
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Backhaul & Inbuilding (IBS) Installation</h5>
@@ -101,18 +107,26 @@ Telecommunication
                                 </div>
                                 <div class="card" style="background: linear-gradient(180deg, #137FC1 -7.18%, #0A71B1 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
-                                        <img src="{{ asset('assets/img/telecom/network_monitor.jpg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/network_monitor.jpg') }}" style="width:fit-content; height: 290px">
+                                        <img src="{{ asset('assets/img/telecom/network_monitor.jpeg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/network_monitor.jpeg') }}" style="width:fit-content; height: 290px">
                                     </div>
                                     <div class="card-body">
-                                        <h5 class="card-title" style="color: #DCEEFA">Network Optimization & Monitoring System (RMS)</h5>
+                                        <h5 class="card-title" style="color: #DCEEFA">Network Optimization & Remote Monitoring System (RMS)</h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            More and more business sectors are turning to Network Optimization & Remote Monitoring Systems (RMS) as solutions for automating 
+                                            A lot of business sectors are turning to Network Optimization & Remote Monitoring Systems (RMS) as solutions for automating 
                                             many different business operations. RMS are usually comprised of a combination of :<br>
-                                            - Sensors<br>
-                                            - Network connections<br>
-                                            - Central computer system<br>
-                                            - Interfaces for human input<br>
-                                            - Actuators, which are mechanical or electronic devices that take an action based on user or system feedback
+                                            <ul style="color: white">
+                                                <li>Hardware Sensors</li>
+                                                <li>Computer System Centralization</li>
+                                                <li>Network Connectivity</li>
+                                                <li>Graphical for info feed in</li>
+                                                <li>Electronic devices that take an action based on user or system assessment</li>
+                                            </ul>
+                                        </p>
+                                        <p class="card-text" style="color: white; text-align: justify">
+                                        Once you understand the benefits that a Remote Monitoring System can bring to your business operations, the next question naturally 
+                                        arises: how can you implement it effectively? In this regard, it is important to consider several essential factors. We can guide you 
+                                        through the implementation process by enabling you to collect real-time equipment and production data, which can improve the efficiency 
+                                        of on-site management, reduce costs, minimize material waste, and achieve lean production.
                                         </p>
                                     </div>
                                 </div>
