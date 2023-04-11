@@ -85,15 +85,16 @@ Green Renewable Energy
                                                                         <td style="border-right: solid 1px rgb(23, 22, 22);">
                                                                             <ul>
                                                                             <li>Solutions with Renewable Energy</li>
-                                                                            <li>Solar Solution with high Energy Efﬁciency</li>
+                                                                            <li>Solar Solution with high Energy Efficiency</li>
                                                                             <li>Backup Diesel Generator</li>
                                                                             </ul>
                                                                         </td>
                                                                         <td>
                                                                             <ul>
-                                                                                <li>OPEX Model – Total Initial Investment of the project will be borne by AJE Best-On</li>
-                                                                                <li>Solar Solution with high Energy Efﬁciency</li>
-                                                                                <li>Backup Diesel Generator</li>
+                                                                                <li>OPEX Model - Total Initial Investment of the project will be borne by AJE Best-On</li>
+                                                                                <li>Zero risk to Telco Operator with fully enable Telecom Tower</li>
+                                                                                <li>CAPEX Model - Project Investment by Telecom Operator</li>
+                                                                                <li>Renewable Energy - Both projects delivered Green Solutions</li>
                                                                             </ul>
                                                                         </td>
                                                                     </tr>
