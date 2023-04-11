@@ -51,9 +51,9 @@ Telecommunication
                                             As technology shifts and improves, carriers need to upgrade their equipment.
                                         </p>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            Our team is not only familiar with all major carrier technologies, but also experienced in microwave alignment and monitoring. We strive to make any equipment upgrade as 
-                                            streamlined as possible with little to no carrier down time. We provide installation, testing & commissioning services for PDH & SDH 
-                                            equipment along with various sizes of antennas.
+                                            Our team has expertise in microwave alignment and monitoring as well as knowledge with all the major carrier technologies. We strive 
+                                            to minimize carrier downtime by streamlining the process with any equipment upgrade. We also offer Plesiochronous Digital Hierarchy(PDH) 
+                                            and Synchronous Digital Hierarchy(SDH) equipment installation, testing, and commissioning services with a range of antenna sizes.
                                         </p>
                                     </div>
                                 </div>
@@ -64,7 +64,7 @@ Telecommunication
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #DCEEFA">Telecom Equipment Installation </h5>
                                         <p class="card-text" style="color: white; text-align: justify">
-                                            We provide services to install, test & commissioning of rectifier, inverter, backup battery and base transceiver station (BTS).
+                                            We provide services to install, test & commissioning of rectifier, inverter, backup battery and base transceiver station(BTS).
                                         </p>
                                     </div>
                                 </div>

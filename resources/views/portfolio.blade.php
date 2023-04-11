@@ -37,6 +37,32 @@
                             <div class="row portfolio-container">
                                 <div class="col-lg-3 col-md-6 portfolio-item filter-card">
                                     <div class="portfolio-wrap">
+                                        <img src="assets/img/aj_solar/new_telco_2.jpg" class="img-fluid" alt=""
+                                            style="width: 307px; height: 307px">
+                                        <div class="portfolio-info">
+                                            <div class="portfolio-links">
+                                                <a href="assets/img/aj_solar/new_telco_2.jpg"
+                                                    data-gallery="portfolioGallery" class="portfolio-lightbox"
+                                                    title=""><i class="bx bx-plus"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                                    <div class="portfolio-wrap">
+                                        <img src="assets/img/aj_solar/new_telco.jpg" class="img-fluid" alt=""
+                                            style="width: 307px; height: 307px">
+                                        <div class="portfolio-info">
+                                            <div class="portfolio-links">
+                                                <a href="assets/img/aj_solar/new_telco_2.jpg"
+                                                    data-gallery="portfolioGallery" class="portfolio-lightbox"
+                                                    title=""><i class="bx bx-plus"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                                    <div class="portfolio-wrap">
                                         <img src="assets/img/aj_solar/aj_solar11.jpeg" class="img-fluid" alt=""
                                             style="width: 307px; height: 307px">
                                         <div class="portfolio-info">

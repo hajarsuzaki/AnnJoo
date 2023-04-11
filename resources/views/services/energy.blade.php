@@ -35,8 +35,13 @@ Green Renewable Energy
                                     <div class="card-body">
                                         <h5 class="card-title" style="color: #161717">Solar Hybrid Solutions</h5>
                                         <p class="card-text" style="color: black; text-align: justify">
-                                            There are more than 3 million telecom towers globally and powering them is a 
-                                            $100bn market. It’s a particularly important growth sector in developing countries.
+                                            Reason to invest in Solar Hybrid System for telecom tower:
+                                            <ul>
+                                                <li>Opportunity</li>
+                                                <li>Cost reduction</li>
+                                                <li>Sustainability in powering</li>
+                                                <li>Flexibility in location</li>
+                                            </ul>
                                         </p>    
                                     </div>
                                       <!-- Modal -->
@@ -67,27 +72,35 @@ Green Renewable Energy
                                                     </p>
                                                     <div class="row">
                                                         {{-- <div class="col-lg-12"> --}}
-                                                            <div class="col-lg-6">
+                                                            <div class="col-lg-12">
                                                                 <table border=1 style="width:100%; border-collapse: collapse;">
                                                                     <thead>
-                                                                    <tr>
-                                                                        <th style="text-align: center">SOLUTIONS</th>
+                                                                    <tr style="border-bottom: 1px solid rgb(23, 22, 22); border-right: 1px solid rgb(23, 22, 22)">
+                                                                        <th style="text-align: center; border-right: solid 1px rgb(23, 22, 22);" width="50%">SOLUTIONS</th>
+                                                                        <th style="text-align: center">BUSINESS MODEL</th>
                                                                     </tr>
                                                                     </thead>
                                                                     <tbody>
                                                                     <tr>
-                                                                        <td>
+                                                                        <td style="border-right: solid 1px rgb(23, 22, 22);">
                                                                             <ul>
                                                                             <li>Solutions with Renewable Energy</li>
                                                                             <li>Solar Solution with high Energy Efﬁciency</li>
                                                                             <li>Backup Diesel Generator</li>
                                                                             </ul>
                                                                         </td>
+                                                                        <td>
+                                                                            <ul>
+                                                                                <li>OPEX Model – Total Initial Investment of the project will be borne by AJE Best-On</li>
+                                                                                <li>Solar Solution with high Energy Efﬁciency</li>
+                                                                                <li>Backup Diesel Generator</li>
+                                                                            </ul>
+                                                                        </td>
                                                                     </tr>
                                                                     </tbody>
                                                                 </table>
                                                             </div>
-                                                            <div class="col-lg-6">
+                                                            {{-- <div class="col-lg-6">
                                                                 <table border=1 style="width:100%; border-collapse: collapse;">
                                                                     <thead>
                                                                     <tr>
@@ -106,7 +119,7 @@ Green Renewable Energy
                                                                     </tr>
                                                                     </tbody>
                                                                 </table>
-                                                            </div>
+                                                            </div> --}}
                                                         {{-- </div> --}}
                                                     </div>
                                                 </div>

@@ -124,8 +124,8 @@
                         </div>
                         <div class="col-lg-2"></div>
                     </div>
-                    <h4 style="color: #5c9f24;"><b>GREEN RENEWABLE ENERGY</b></h4>
                 </div>
+                <h4 style="color: #5c9f24; text-align: center"><b>GREEN RENEWABLE ENERGY</b></h4>
                 <div class="row">
                     <div class="col-lg-3">
                         <div class="card mb-3" style="background-color: #5c9f24;">
@@ -274,7 +274,7 @@
                         </div>
                     </div> --}}
                 </div><br>
-                <h4 style="color: #5391e1; text-align: center"><b>TELECOM ENGINEERING SERVICES</b></h4><br />
+                <h4 style="color: #5391e1; text-align: center"><b>TELECOM ENGINEERING SERVICES</b></h4>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="card mb-3" style="background-color: #5391e1;">
