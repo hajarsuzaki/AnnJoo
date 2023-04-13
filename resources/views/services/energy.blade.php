@@ -3,6 +3,11 @@
 Green Renewable Energy
 @endsection
 @section('content')
+<style>
+    .modal-header {
+        background-color: #D9E1D7"
+    }
+</style>
 <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
@@ -28,7 +33,7 @@ Green Renewable Energy
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="card-group">
-                                <div class="card" style="background: linear-gradient(180deg, #5c9f24 -7.18%, #5c9f24 56.71%, #DCEEFA 107.18%);">
+                                <div class="card" style="background: linear-gradient(180deg, #5c9f24 -7.18%, #71c929 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
                                         <img src="{{ asset('assets/img/energy/microgrid.png') }}" class="card-img-top" alt="{{ asset('assets/img/energy/microgrid.png') }}" style="width:fit-content; height: 320px; ">
                                     </div>
@@ -51,13 +56,13 @@ Green Renewable Energy
                                     <div class="modal fade" id="solar_hybrid" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                                         <div class="modal-dialog modal-lg" role="document">
                                             <div class="modal-content">
-                                                <div class="modal-header">
+                                                <div class="modal-header" style="background-color: #CCE5C6">
                                                     <h5 class="modal-title" id="exampleModalLongTitle">Solar Hybrid Solutions</h5>
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                     <span aria-hidden="true">&times;</span>
                                                     </button>
                                                 </div>
-                                                <div class="modal-body">
+                                                <div class="modal-body" style="background-color: #CCE5C6">
                                                     <p class="card-text" style="text-align: justify">
                                                         Reason to invest in Solar Hybrid System for telecom tower:
                                                         <ul>
@@ -101,37 +106,17 @@ Green Renewable Energy
                                                                     </tbody>
                                                                 </table>
                                                             </div>
-                                                            {{-- <div class="col-lg-6">
-                                                                <table border=1 style="width:100%; border-collapse: collapse;">
-                                                                    <thead>
-                                                                    <tr>
-                                                                        <th style="text-align: center">BUSINESS MODEL</th>
-                                                                    </tr>
-                                                                    </thead>
-                                                                    <tbody>
-                                                                    <tr>
-                                                                        <td>
-                                                                            <ul>
-                                                                                <li>OPEX Model – Total Initial Investment of the project will be borne by AJE Best-On</li>
-                                                                                <li>Solar Solution with high Energy Efﬁciency</li>
-                                                                                <li>Backup Diesel Generator</li>
-                                                                            </ul>
-                                                                        </td>
-                                                                    </tr>
-                                                                    </tbody>
-                                                                </table>
-                                                            </div> --}}
                                                         {{-- </div> --}}
                                                     </div>
                                                 </div>
-                                                <div class="modal-footer">
+                                                <div class="modal-footer" style="background-color: #CCE5C6">
                                                     <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card" style="background: linear-gradient(180deg, #5c9f24 -7.18%, #5c9f24 56.71%, #DCEEFA 107.18%);">
+                                <div class="card" style="background: linear-gradient(180deg, #5c9f24 -7.18%, #71c929 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
                                         <img src="{{ asset('assets/img/energy/industrial_1.png') }}" class="card-img-top" alt="{{ asset('assets/img/energy/industrial_1.png') }}" style="width:fit-content; height: 320px; ">
                                     </div>
@@ -149,13 +134,13 @@ Green Renewable Energy
                                     <div class="modal fade" id="enterprise" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                                         <div class="modal-dialog modal-lg" role="document">
                                             <div class="modal-content">
-                                                <div class="modal-header">
+                                                <div class="modal-header" style="background-color: #CCE5C6">
                                                     <h5 class="modal-title" id="exampleModalLongTitle">Enterprise & Industrial Solar Hybrid System</h5>
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                     <span aria-hidden="true">&times;</span>
                                                     </button>
                                                 </div>
-                                                <div class="modal-body">
+                                                <div class="modal-body" style="background-color: #CCE5C6">
                                                     <p class="card-text" style="text-align: justify">
                                                         <b><i>Enterprise</i></b><br>
                                                         The adoption of solar energy into your enterprise can improve environmental sustainability in your operations, 
@@ -172,14 +157,14 @@ Green Renewable Energy
                                                         long-term savings.
                                                     </p>
                                                 </div>
-                                                <div class="modal-footer">
+                                                <div class="modal-footer" style="background-color: #CCE5C6">
                                                     <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card" style="background: linear-gradient(180deg, #5c9f24 -7.18%, #5c9f24 56.71%, #DCEEFA 107.18%);">
+                                <div class="card" style="background: linear-gradient(180deg, #5c9f24 -7.18%, #71c929 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
                                         <img src="{{ asset('assets/img/energy/server_room.jpg') }}" class="card-img-top" alt="{{ asset('assets/img/energy/server_room.jpg') }}" style="width:fit-content; height: 320px; ">
                                     </div>
@@ -197,13 +182,13 @@ Green Renewable Energy
                                     <div class="modal fade" id="microgrid" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                                         <div class="modal-dialog modal-lg" role="document">
                                             <div class="modal-content">
-                                                <div class="modal-header">
+                                                <div class="modal-header" style="background-color: #CCE5C6">
                                                     <h5 class="modal-title" id="exampleModalLongTitle">Microgrid</h5>
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                     <span aria-hidden="true">&times;</span>
                                                     </button>
                                                 </div>
-                                                <div class="modal-body">
+                                                <div class="modal-body" style="background-color: #CCE5C6">
                                                     <p class="card-text" style="text-align: justify">
                                                         A microgrid is an electricity dissemination network that relies on local power generation techniques. 
                                                         It is intended to operate autonomously or in synchronization with the public organization, inside a characterized
@@ -225,14 +210,14 @@ Green Renewable Energy
                                                         frameworks or other sustainable power source, stockpiling batteries, and generators.
                                                     </p>
                                                 </div>
-                                                <div class="modal-footer">
+                                                <div class="modal-footer" style="background-color: #CCE5C6">
                                                     <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card" style="background: linear-gradient(180deg, #5c9f24 -7.18%, #5c9f24 56.71%, #DCEEFA 107.18%);">
+                                <div class="card" style="background: linear-gradient(180deg, #5c9f24 -7.18%, #71c929 56.71%, #DCEEFA 107.18%);">
                                     <div class="row">
                                         <img src="{{ asset('assets/img/energy/ipv.png') }}" class="card-img-top" alt="{{ asset('assets/img/energy/ipv.png') }}" style="width:fit-content; height: 320px; ">
                                     </div>
@@ -247,18 +232,18 @@ Green Renewable Energy
                                     <div class="modal fade" id="renewable" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                                         <div class="modal-dialog modal-lg" role="document">
                                             <div class="modal-content">
-                                                <div class="modal-header">
+                                                <div class="modal-header" style="background-color: #CCE5C6">
                                                     <h5 class="modal-title" id="exampleModalLongTitle">Renewable Energy Solutions</h5>
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                     <span aria-hidden="true">&times;</span>
                                                     </button>
                                                 </div>
-                                                <div class="modal-body">
+                                                <div class="modal-body" style="background-color: #CCE5C6">
                                                     <p class="card-text" style="text-align: justify">
                                                        
                                                     </p>
                                                 </div>
-                                                <div class="modal-footer">
+                                                <div class="modal-footer" style="background-color: #CCE5C6">
                                                     <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                                                 </div>
                                             </div>

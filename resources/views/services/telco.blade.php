@@ -62,7 +62,7 @@ Telecommunication
                                         <img src="{{ asset('assets/img/telecom/telecom_install.jpeg') }}" class="card-img-top" alt="{{ asset('assets/img/telecom/telecom_install.jpeg') }}" style="width:fit-content; height: 290px">
                                     </div>
                                     <div class="card-body">
-                                        <h5 class="card-title" style="color: #DCEEFA">Telecom Equipment Installation </h5>
+                                        <h5 class="card-title" style="color: #DCEEFA">Telecommunication Turnkey Contractor </h5>
                                         <p class="card-text" style="color: white; text-align: justify">
                                             We provide services to install, test & commissioning of rectifier, inverter, backup battery and base transceiver station(BTS).
                                         </p>
