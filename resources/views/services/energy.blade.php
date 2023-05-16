@@ -56,25 +56,39 @@ Green Renewable Energy
                                     <div class="modal fade" id="solar_hybrid" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                                         <div class="modal-dialog modal-lg" role="document">
                                             <div class="modal-content">
-                                                <div class="modal-header" style="background-color: #CCE5C6">
+                                                <div class="modal-header" style="background-color: #ffffff">
                                                     <h5 class="modal-title" id="exampleModalLongTitle">Solar Hybrid Solutions</h5>
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                     <span aria-hidden="true">&times;</span>
                                                     </button>
                                                 </div>
-                                                <div class="modal-body" style="background-color: #CCE5C6">
-                                                    <p class="card-text" style="text-align: justify">
-                                                        Reason to invest in Solar Hybrid System for telecom tower:
-                                                        <ul>
-                                                            <li><b>Opportunity</b>: Competitive solar and batteries prices and transition into eco-friendly business.</li>
-                                                            <li><b>Cost reduction</b>: Significant reduction in operation and maintenance cost as compared to user of diesel gensets.</li>
-                                                            <li><b>Sustainability in powering</b>: Hassle free from powering the towers outside the grids that face lack of grids that stretch to remote communities using mobiles to leapfrog the laying of costly landlines.</li>
-                                                            <li><b>Flexibility in location</b>: For telecom locations, AJE Best-On’s hybrid systems are incredibly durable and designed to change to meet your demands.</li>
-                                                        </ul>
-                                                        Our whole range of efficient energy systems are designed to support renewable energy sources and can be deployed virtually 
-                                                        anywhere, including network edge and remote telecom sites off-grid and on-grid to help Telco Operators increase their 
-                                                        operational savings.
-                                                    </p>
+                                                <div class="modal-body" style="background-color: #ffffff">
+                                                    <table>
+                                                        <tr>
+                                                            <td style="width: 30%; vertical-align: top"><img src="{{ asset('assets/img/aj_solar/aj_solar2.jpeg') }}" class="img-fluid" alt="no image" style="width: 250px; height: 250px; border-radius: 25px;"></td>
+                                                            <td>
+                                                                <p class="card-text" style="text-align: justify">
+                                                                    Reason to invest in Solar Hybrid System for telecom tower:
+                                                                    <ul>
+                                                                        <li><b>Opportunity</b>: Competitive solar and batteries prices and transition into eco-friendly business.</li>
+                                                                        <li><b>Cost reduction</b>: Significant reduction in operation and maintenance cost as compared to user of diesel gensets.</li>
+                                                                        <li><b>Sustainability in powering</b>: Hassle free from powering the towers outside the grids that face lack of grids that stretch to remote communities using mobiles to leapfrog the laying of costly landlines.</li>
+                                                                        <li><b>Flexibility in location</b>: For telecom locations, AJE Best-On’s hybrid systems are incredibly durable and designed to change to meet your demands.</li>
+                                                                    </ul>
+                                                                    
+                                                                </p>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan='2'>
+                                                                <p class="card-text" style="text-align: justify">
+                                                                    Our whole range of efficient energy systems are designed to support renewable energy sources and can be deployed virtually 
+                                                                    anywhere, including network edge and remote telecom sites off-grid and on-grid to help Telco Operators increase their 
+                                                                    operational savings.
+                                                                </p>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
                                                     <div class="row">
                                                         {{-- <div class="col-lg-12"> --}}
                                                             <div class="col-lg-12">
@@ -87,7 +101,7 @@ Green Renewable Energy
                                                                     </thead>
                                                                     <tbody>
                                                                     <tr>
-                                                                        <td style="border-right: solid 1px rgb(23, 22, 22);">
+                                                                        <td style="border-right: solid 1px rgb(23, 22, 22); vertical-align: top;">
                                                                             <ul>
                                                                             <li>Solutions with Renewable Energy</li>
                                                                             <li>Solar Solution with high Energy Efficiency</li>
@@ -109,7 +123,7 @@ Green Renewable Energy
                                                         {{-- </div> --}}
                                                     </div>
                                                 </div>
-                                                <div class="modal-footer" style="background-color: #CCE5C6">
+                                                <div class="modal-footer" style="background-color: #ffffff">
                                                     <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                                                 </div>
                                             </div>
@@ -134,30 +148,48 @@ Green Renewable Energy
                                     <div class="modal fade" id="enterprise" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                                         <div class="modal-dialog modal-lg" role="document">
                                             <div class="modal-content">
-                                                <div class="modal-header" style="background-color: #CCE5C6">
+                                                <div class="modal-header" style="background-color: #ffffff">
                                                     <h5 class="modal-title" id="exampleModalLongTitle">Enterprise & Industrial Solar Hybrid System</h5>
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                     <span aria-hidden="true">&times;</span>
                                                     </button>
                                                 </div>
-                                                <div class="modal-body" style="background-color: #CCE5C6">
-                                                    <p class="card-text" style="text-align: justify">
-                                                        <b><i>Enterprise</i></b><br>
-                                                        The adoption of solar energy into your enterprise can improve environmental sustainability in your operations, 
-                                                        and significantly reduce your business's carbon footprint while simultaneously minimizing current operating expenses.<br> 
-                                                        Additionally, leveraging solar power can offer a sense of security against escalating electricity expenses. 
-                                                        Furthermore, implementing sustainable energy strategies can help to expand your customer base by appealing to a 
-                                                        growing demographic of eco-conscious consumers who seeking out for environmentally responsible businesses. 
-                                                    </p>
-                                                    <p class="card-text" style="text-align: justify">
-                                                        <b><i>Industrial</i></b><br>
-                                                        Incorporating solar energy into a company's operations can be a sound investment decision that offers long-term 
-                                                        benefits. This one-time investment in operational expenses can be offset by government incentives and ongoing cost 
-                                                        reductions in solar equipment. Furthermore, this investment can provide stable returns over time and contribute to 
-                                                        long-term savings.
-                                                    </p>
+                                                <div class="modal-body" style="background-color: #ffffff">
+                                                    <table>
+                                                        <tr>
+                                                            <td>
+                                                                <p class="card-text" style="text-align: justify">
+                                                                    <b><i>Enterprise</i></b><br>
+                                                                    The adoption of solar energy into your enterprise can improve environmental sustainability in your operations, 
+                                                                    and significantly reduce your business's carbon footprint while simultaneously minimizing current operating expenses.<br> 
+                                                                    Additionally, leveraging solar power can offer a sense of security against escalating electricity expenses. 
+                                                                    Furthermore, implementing sustainable energy strategies can help to expand your customer base by appealing to a 
+                                                                    growing demographic of eco-conscious consumers who seeking out for environmentally responsible businesses. 
+                                                                </p>
+                                                            </td>
+                                                            <td>
+                                                                <td style="width: 30%; vertical-align: top">&nbsp;<img src="{{ asset('assets/img/energy/industrial_1.png') }}" class="img-fluid" alt="no image" style="width: 200px; height: 200px; border-radius: 25px;"></td>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td>
+                                                                <td style="width: 30%; vertical-align: top">&nbsp;<img src="{{ asset('assets/img/aj_solar/aj_solar7.jpeg') }}" class="img-fluid" alt="no image" style="width: 200px; height: 200px; border-radius: 25px;"></td>
+                                                            </td>
+                                                            <td>
+                                                                <p class="card-text" style="text-align: justify">
+                                                                    <b><i>Industrial</i></b><br>
+                                                                    Incorporating solar energy into a company's operations can be a sound investment decision that offers long-term 
+                                                                    benefits. This one-time investment in operational expenses can be offset by government incentives and ongoing cost 
+                                                                    reductions in solar equipment. Furthermore, this investment can provide stable returns over time and contribute to 
+                                                                    long-term savings.
+                                                                </p>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
                                                 </div>
-                                                <div class="modal-footer" style="background-color: #CCE5C6">
+                                                <div class="modal-footer" style="background-color: #ffffff">
                                                     <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                                                 </div>
                                             </div>
@@ -182,35 +214,42 @@ Green Renewable Energy
                                     <div class="modal fade" id="microgrid" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                                         <div class="modal-dialog modal-lg" role="document">
                                             <div class="modal-content">
-                                                <div class="modal-header" style="background-color: #CCE5C6">
+                                                <div class="modal-header" style="background-color: #ffffff">
                                                     <h5 class="modal-title" id="exampleModalLongTitle">Microgrid</h5>
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                     <span aria-hidden="true">&times;</span>
                                                     </button>
                                                 </div>
-                                                <div class="modal-body" style="background-color: #CCE5C6">
+                                                <div class="modal-body" style="background-color: #ffffff">
                                                     <p class="card-text" style="text-align: justify">
                                                         A microgrid is an electricity dissemination network that relies on local power generation techniques. 
                                                         It is intended to operate autonomously or in synchronization with the public organization, inside a characterized
                                                         territory. 
                                                     </p>
-                                                    <p class="card-text" style="text-align: justify">
-                                                        It is crucial to ensure the production and distribution of power in order to empower disengaged or far off regions to ensure their financial movement and 
-                                                        advantage from solid energy. Also, it is likewise an occasion to benefit from clean circulated and environmentally friendly power.
-                                                    </p>
-                                                    <p class="card-text" style="text-align: justify">
-                                                        Microgrids typically adapt gracefully to areas with inadequate or insufficient power, for a moderate solid and neighbourhood energy.
-                                                    </p>
-                                                    <p class="card-text" style="text-align: justify">
-                                                        The coordination of neighbourhood sustainable power generation and energy storage enables modern structure in 
-                                                        remote locations to limit the varied effects of a potential organization blackout.
-                                                    </p>
+                                                    <table>
+                                                        <tr>
+                                                            <td style="width: 30%;"><img src="{{ asset('assets/img/energy/server_room.jpg') }}" class="img-fluid" alt="no image" style="width: 200px; height: 200px; border-radius: 25px;"></td>
+                                                            <td>
+                                                                <p class="card-text" style="text-align: justify">
+                                                                    It is crucial to ensure the production and distribution of power in order to empower disengaged or far off regions to ensure their financial movement and 
+                                                                    advantage from solid energy. Also, it is likewise an occasion to benefit from clean circulated and environmentally friendly power.
+                                                                </p>
+                                                                <p class="card-text" style="text-align: justify">
+                                                                    Microgrids typically adapt gracefully to areas with inadequate or insufficient power, for a moderate solid and neighbourhood energy.
+                                                                </p>
+                                                                <p class="card-text" style="text-align: justify">
+                                                                    The coordination of neighbourhood sustainable power generation and energy storage enables modern structure in 
+                                                                    remote locations to limit the varied effects of a potential organization blackout.
+                                                                </p>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
                                                     <p class="card-text" style="text-align: justify">
                                                         On account of microgrids, secluded areas could be provided by crossover frameworks, utilizing sun powered photovoltaic
                                                         frameworks or other sustainable power source, stockpiling batteries, and generators.
                                                     </p>
                                                 </div>
-                                                <div class="modal-footer" style="background-color: #CCE5C6">
+                                                <div class="modal-footer" style="background-color: #ffffff">
                                                     <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                                                 </div>
                                             </div>
@@ -232,18 +271,18 @@ Green Renewable Energy
                                     <div class="modal fade" id="renewable" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                                         <div class="modal-dialog modal-lg" role="document">
                                             <div class="modal-content">
-                                                <div class="modal-header" style="background-color: #CCE5C6">
+                                                <div class="modal-header" style="background-color: #ffffff">
                                                     <h5 class="modal-title" id="exampleModalLongTitle">Renewable Energy Solutions</h5>
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                     <span aria-hidden="true">&times;</span>
                                                     </button>
                                                 </div>
-                                                <div class="modal-body" style="background-color: #CCE5C6">
+                                                <div class="modal-body" style="background-color: #ffffff">
                                                     <p class="card-text" style="text-align: justify">
                                                        
                                                     </p>
                                                 </div>
-                                                <div class="modal-footer" style="background-color: #CCE5C6">
+                                                <div class="modal-footer" style="background-color: #ffffff">
                                                     <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                                                 </div>
                                             </div>
